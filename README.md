@@ -35,7 +35,7 @@
 
 ---
 
-## 🧩 3D-модель плати **v2**
+## 3D-модель плати **v2**
 
 **Вигляд зверху (TOP):**  
 ![3D Top](https://github.com/Vitech-UA/Lamp_audio_amplifier_6P14P_6N2P/blob/master/MEDIA/2025-07-23_14-13-58.jpg)
