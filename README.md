@@ -46,15 +46,15 @@
 
 ---
 
-## 3D-модель плати **v2**
+## Зібраний робочий апарат:
 
-**Фото зібраного підсилювача:**  
+**Фото зібраного підсилювача зпереду:**  
 ![Front](https://github.com/Vitech-UA/Lamp_audio_amplifier_6P14P_6N2P/blob/master/MEDIA/CASE1.jpg)
 
-**Вигляд знизу (BOTTOM):**  
+**Монтаж:**  
 ![3D Bottom](https://github.com/Vitech-UA/Lamp_audio_amplifier_6P14P_6N2P/blob/master/MEDIA/CASE2.jpg)
 
-**Вигляд знизу 2 (BOTTOM):**  
+**Лампи 6Е1П:**  
 ![3D Bottom](https://github.com/Vitech-UA/Lamp_audio_amplifier_6P14P_6N2P/blob/master/MEDIA/CASE3.jpg)
 ---
 ## 📎 Посилання
